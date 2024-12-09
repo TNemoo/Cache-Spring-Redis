@@ -1,4 +1,4 @@
-package com.example.cachespringjedisredis.entity;
+package com.example.cachespringredis.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;

@@ -1,8 +1,8 @@
-package com.example.cachespringjedisredis.service;
+package com.example.cachespringredis.service;
 
-import com.example.cachespringjedisredis.dto.PersonDto;
-import com.example.cachespringjedisredis.entity.Person;
-import com.example.cachespringjedisredis.repository.PersonRepository;
+import com.example.cachespringredis.dto.PersonDto;
+import com.example.cachespringredis.entity.Person;
+import com.example.cachespringredis.repository.PersonRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;

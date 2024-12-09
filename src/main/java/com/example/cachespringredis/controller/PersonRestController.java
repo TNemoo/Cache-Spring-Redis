@@ -1,7 +1,7 @@
-package com.example.cachespringjedisredis.controller;
+package com.example.cachespringredis.controller;
 
-import com.example.cachespringjedisredis.dto.PersonDto;
-import com.example.cachespringjedisredis.service.PersonService;
+import com.example.cachespringredis.dto.PersonDto;
+import com.example.cachespringredis.service.PersonService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

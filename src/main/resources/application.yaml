@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cache-spring-jedis-redis
+    name: cache-spring-redis
 
   datasource:
     url: jdbc:postgresql://localhost:5432/test-db

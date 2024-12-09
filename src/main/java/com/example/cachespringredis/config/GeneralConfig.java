@@ -1,4 +1,4 @@
-package com.example.cachespringjedisredis.config;
+package com.example.cachespringredis.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

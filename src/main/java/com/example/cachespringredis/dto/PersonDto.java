@@ -1,4 +1,4 @@
-package com.example.cachespringjedisredis.dto;
+package com.example.cachespringredis.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
