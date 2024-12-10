@@ -25,5 +25,11 @@ spring:
       host: localhost
       port: 6379
 
+  cache:
+    redis:
+      time-to-live: 6000
+      key-prefix: jj
+    cache-names: test
+
 
 
